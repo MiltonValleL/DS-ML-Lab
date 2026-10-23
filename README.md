@@ -1,4 +1,4 @@
-# DS_ML_Lab
+# Data Science & Machine Learning Laboratories
 
 A growing collection of hands-on code practices from my journey into Data Science and Machine Learning.
 
