@@ -13,13 +13,13 @@ This is not a showcase of finished projects. It is a workbench: a place to try t
 ## Repository structure
 
 ```
-DS_ML_Laboratory/
-├── numpy/          # Vectorized operations, broadcasting, indexing
-├── pandas/         # Series, DataFrame, groupby, merging, reshaping
-├── matplotlib/     # Object-oriented API, subplots, customization
-├── seaborn/        # Statistical visualizations
-├── scikit-learn/   # Pipelines, modeling, evaluation
-├── pytorch/        # Tensors, autograd, neural networks
+DS_ML_Lab/
+├── Numpy/          # Vectorized operations, broadcasting, indexing
+├── Pandas/         # Series, DataFrame, groupby, merging, reshaping
+├── Matplotlib/     # Object-oriented API, subplots, customization
+├── Seaborn/        # Statistical visualizations
+├── Scikit-learn/   # Pipelines, modeling, evaluation
+├── Pytorch/        # Tensors, autograd, neural networks
 └── ...             # More libraries and topics added as I learn them
 ```
 
